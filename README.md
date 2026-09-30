@@ -189,7 +189,25 @@ That is the experience I am now looking to apply in **program management, AI-ena
 
 ## Product screenshots
 
-Selected screenshots of the Dashboard, Focus Stocks, sector views, and evidence/audit workflows will be added here. No private source code, credentials, brokerage information, or personal trading data will be published.
+The screenshots below show the working product I use for market analysis and decision support. They contain no private source code, credentials, brokerage information, or personal trading data.
+
+### Market Dashboard
+
+A top-level market read combining the daily playbook, macro indicators, institutional flows, geopolitical context, event risk, and decision cues in one operating view.
+
+![SectorPulse Market Dashboard](assets/Dashboard.png)
+
+### Focus Stocks
+
+A decision workspace for reviewing repeat names, technical context, score, entry confidence, stance, event risk, and candidate rationale before a stock moves into active consideration.
+
+![SectorPulse Focus Stocks](assets/Focus%20Stock.png)
+
+### Sector Rotation Engine
+
+A sector-level view that compares leadership, breadth, participation, macro/geopolitical drivers, event pressure, and representative stocks to explain where market strength is concentrated.
+
+![SectorPulse Sector Rotation Engine](assets/Sector%20Rotation%20Engine.png)
 
 ---
 
